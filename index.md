@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Data Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[NBA ETL Demo]((https://replit.com/@cchukwuemeka/Finalproject))
+<img src="images/basketball.jepg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Working With APIs](/pdf/sample_presentation.pdf](https://replit.com/@cchukwuemeka/Bookdownload))
+<img src="images/my_word_cloud.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
