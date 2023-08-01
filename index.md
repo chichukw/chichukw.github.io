@@ -4,11 +4,11 @@
 
 ### Data Projects 
 
-[NBA ETL Demo]((https://replit.com/@cchukwuemeka/Finalproject))
-<img src="images/basketball.jepg?raw=true"/>
+[NBA ETL Demo](https://replit.com/@cchukwuemeka/Finalproject)
+<img src="images/basketball.jpeg?raw=true"/>
 
 ---
-[Working With APIs](/pdf/sample_presentation.pdf](https://replit.com/@cchukwuemeka/Bookdownload))
+[Working With APIs](https://replit.com/@cchukwuemeka/Bookdownload)
 <img src="images/my_word_cloud.png?raw=true"/>
 
 ---
@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Project 2 Title](https://replit.com/@cchukwuemeka/Bookdownload)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
