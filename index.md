@@ -12,18 +12,16 @@
 <img src="images/my_word_cloud.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Reviewing Dating Profiles]([http://example.com/](https://colab.research.google.com/drive/1CVCm1S5KRiixvFDOhvhj5r9bmVRgMYc2))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Machine Learning Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](https://replit.com/@cchukwuemeka/Bookdownload)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Which Neural Network is better at predicting images?](https://colab.research.google.com/drive/10vuXyDu7bWMGoBYHY22mjK3J7YAwkXB-)
+- [Which advertising platform is better at increasing sales?](https://colab.research.google.com/drive/18MHvO2VWdacEAwkQJEHnlX-M3c6740Gf)
+- [Determinants of heart disease](https://colab.research.google.com/drive/1kawxN1LUp_YRA0hk12_z-2luUIy_Q7BB)
 
 ---
 
