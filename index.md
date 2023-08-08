@@ -8,7 +8,7 @@
 <img src="images/wordcloud.png?raw=true"/>
 
 ---
-[Reviewing Dating Profiles]([http://example.com/](https://colab.research.google.com/drive/1CVCm1S5KRiixvFDOhvhj5r9bmVRgMYc2))
+[Reviewing Dating Profiles](http://example.com/](https://colab.research.google.com/drive/1CVCm1S5KRiixvFDOhvhj5r9bmVRgMYc2 )
 
 <img src="images/couple.png?raw=true"/>
 
