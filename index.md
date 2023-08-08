@@ -5,7 +5,7 @@
 ### Data Projects 
 
 [Reviewing Dating Profiles]([http://example.com/](https://colab.research.google.com/drive/1CVCm1S5KRiixvFDOhvhj5r9bmVRgMYc2))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/couple.png?raw=true"/>
 
 ---
 [Making word clouds using APIs](https://replit.com/@cchukwuemeka/Bookdownload)
