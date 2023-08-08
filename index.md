@@ -9,11 +9,11 @@
 
 ---
 [Making word clouds using APIs](https://replit.com/@cchukwuemeka/Bookdownload)
-<img src="images/my_word_cloud.png?raw=true"/>
+<img src="images/wordcloud.png?raw=true"/>
 
 ---
 [NBA ETL Demo](https://replit.com/@cchukwuemeka/Finalproject)
-<img src="images/basketball.jpeg?raw=true"/>
+<img src="images/basket.jpeg?raw=true"/>
 
 ---
 ### Machine Learning Projects
